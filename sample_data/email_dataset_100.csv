@@ -1,0 +1,101 @@
+subject,body,spam,label_department,label_priority
+Payment failed,Reset your password using this link.,ham,Sales,Medium
+System maintenance,Invoice is overdue. Please take action.,spam,Support,Medium
+Subscription upgrade,You were charged twice. Please verify.,spam,Finance,High
+Account cancellation,I want to cancel my subscription.,ham,Finance,High
+Team meeting,"Server down, immediate fix needed.",spam,Finance,Low
+Cheap meds,Customer requires urgent assistance.,spam,Finance,Low
+Account cancellation,Your payment has failed.,ham,Sales,Low
+Interview schedule,Prescription-free pills at low cost.,ham,Support,Low
+Support needed,Review the new updated company policy.,ham,Sales,Medium
+Interview schedule,Reset your password using this link.,ham,Sales,Medium
+Urgent approval needed,Reset your password using this link.,spam,HR,High
+Login failed,I want to cancel my subscription.,spam,HR,High
+Account cancellation,Your payment has failed.,ham,Sales,High
+Support needed,Maintenance scheduled for tonight.,ham,HR,Low
+Quarterly report,Reminder: meeting scheduled tomorrow.,ham,Finance,High
+Cheap meds,Reset your password using this link.,spam,IT,Low
+Win big,Customer requires urgent assistance.,ham,Finance,Medium
+Server outage,Special offer available for limited time.,ham,IT,Medium
+Account cancellation,Approval required urgently.,spam,IT,Low
+Account cancellation,I want to cancel my subscription.,spam,Support,High
+Interview schedule,I want to cancel my subscription.,spam,Finance,High
+Billing question,You were charged twice. Please verify.,ham,HR,High
+Win big,Your payment has failed.,spam,Finance,High
+System maintenance,Approval required urgently.,spam,Support,High
+Account cancellation,Customer requires urgent assistance.,ham,Support,Medium
+Holiday request,Maintenance scheduled for tonight.,spam,Finance,Medium
+Win big,Unable to log into portal. Need support.,spam,Finance,Medium
+Password reset,"Server down, immediate fix needed.",ham,HR,Low
+Billing question,Prescription-free pills at low cost.,spam,HR,Low
+Invoice overdue,Schedule an interview for the open role.,ham,Sales,Medium
+Holiday request,Approval required urgently.,spam,Finance,Low
+Account cancellation,Buy cheap meds now.,spam,Support,Medium
+Account cancellation,Schedule an interview for the open role.,ham,HR,Medium
+Billing question,Unable to log into portal. Need support.,ham,HR,Medium
+New policy update,Special offer available for limited time.,spam,HR,Medium
+Interview schedule,I want to cancel my subscription.,ham,HR,Medium
+Quarterly report,Buy cheap meds now.,ham,IT,Medium
+Promotional offer,Invoice is overdue. Please take action.,spam,Support,High
+Password reset,Schedule an interview for the open role.,spam,Support,High
+Subscription upgrade,You were charged twice. Please verify.,ham,IT,High
+Subscription upgrade,Prepare quarterly report by Friday.,ham,Support,High
+Promotional offer,Approval required urgently.,spam,IT,Low
+Password reset,I want to cancel my subscription.,spam,IT,High
+Holiday request,Upgrade your account for more features.,spam,IT,High
+Team meeting,Prescription-free pills at low cost.,ham,IT,Medium
+Login failed,Unable to log into portal. Need support.,ham,HR,High
+Password reset,Special offer available for limited time.,ham,HR,Low
+Win big,Prescription-free pills at low cost.,ham,Support,Medium
+Support needed,Requesting leave approval.,ham,Sales,Medium
+Cheap meds,Schedule an interview for the open role.,ham,HR,High
+Account cancellation,Schedule an interview for the open role.,ham,Sales,Low
+Account cancellation,Approval required urgently.,spam,Finance,Low
+Support needed,You were charged twice. Please verify.,spam,Support,Low
+Interview schedule,Prescription-free pills at low cost.,spam,Sales,Low
+Support needed,Upgrade your account for more features.,ham,Finance,High
+Holiday request,You were charged twice. Please verify.,ham,IT,High
+Quarterly report,You've won a lottery! Click here to claim.,spam,Sales,High
+Quarterly report,Approval required urgently.,ham,Finance,Medium
+Invoice overdue,Review the new updated company policy.,spam,Finance,Low
+Invoice overdue,Invoice is overdue. Please take action.,ham,Finance,Medium
+Promotional offer,Reminder: meeting scheduled tomorrow.,ham,Finance,Medium
+Login failed,Maintenance scheduled for tonight.,ham,Support,High
+Server outage,Customer requires urgent assistance.,spam,IT,Low
+Discount pills,I want to cancel my subscription.,spam,IT,High
+Win big,"Server down, immediate fix needed.",ham,Finance,Low
+Win big,You were charged twice. Please verify.,spam,Sales,High
+Subscription upgrade,"Server down, immediate fix needed.",spam,Sales,Medium
+Account cancellation,Reminder: meeting scheduled tomorrow.,spam,Support,High
+Billing question,Unable to log into portal. Need support.,spam,Support,Low
+Interview schedule,Buy cheap meds now.,ham,IT,Medium
+System maintenance,Invoice is overdue. Please take action.,spam,Support,High
+Subscription upgrade,You were charged twice. Please verify.,spam,Support,High
+Cheap meds,I want to cancel my subscription.,spam,Finance,Low
+Invoice overdue,Schedule an interview for the open role.,ham,Finance,Low
+New policy update,You've won a lottery! Click here to claim.,ham,Finance,High
+Holiday request,Prepare quarterly report by Friday.,ham,Support,Low
+Holiday request,Buy cheap meds now.,spam,IT,High
+Quarterly report,Approval required urgently.,spam,IT,High
+Subscription upgrade,Unable to log into portal. Need support.,spam,Sales,Medium
+Subscription upgrade,Invoice is overdue. Please take action.,ham,Finance,Medium
+New policy update,Upgrade your account for more features.,ham,Sales,High
+Login failed,You've won a lottery! Click here to claim.,spam,Support,Medium
+Account cancellation,Invoice is overdue. Please take action.,ham,HR,Medium
+System maintenance,You were charged twice. Please verify.,ham,Finance,Medium
+Server outage,Schedule an interview for the open role.,ham,Sales,Medium
+System maintenance,Review the new updated company policy.,ham,Finance,Low
+New policy update,Approval required urgently.,spam,Support,Low
+Promotional offer,Schedule an interview for the open role.,ham,IT,High
+Win big,Your payment has failed.,ham,Support,High
+Urgent approval needed,Your payment has failed.,spam,HR,Medium
+Urgent approval needed,You've won a lottery! Click here to claim.,ham,Sales,Medium
+Payment failed,Maintenance scheduled for tonight.,ham,Finance,High
+Subscription upgrade,You've won a lottery! Click here to claim.,spam,Sales,Medium
+Invoice overdue,Prescription-free pills at low cost.,ham,Support,Low
+Invoice overdue,Schedule an interview for the open role.,ham,Sales,High
+Holiday request,Unable to log into portal. Need support.,spam,IT,High
+Server outage,"Server down, immediate fix needed.",spam,HR,High
+System maintenance,I want to cancel my subscription.,spam,HR,High
+Urgent approval needed,Upgrade your account for more features.,ham,HR,Medium
+Server outage,Review the new updated company policy.,ham,IT,Low
